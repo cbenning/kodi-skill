@@ -1,0 +1,7 @@
+{
+  "utterance": "play Idiocracy",
+  "intent_type": "KodiIntent",
+  "intent": {
+    "WatchKeyword": "play"
+  }
+}

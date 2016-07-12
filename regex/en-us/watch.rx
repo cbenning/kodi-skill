@@ -1,0 +1,2 @@
+(play|resume|watch|see) (?P<MovieTitle>.*)
+
